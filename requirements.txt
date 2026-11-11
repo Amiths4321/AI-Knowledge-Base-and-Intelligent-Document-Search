@@ -1,0 +1,8 @@
+streamlit
+ollama
+pandas
+numpy
+faiss-cpu
+pymupdf
+openpyxl
+python-dotenv
