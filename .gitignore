@@ -5,3 +5,4 @@ __pycache__/
 documents/
 vector_database/
 exports/
+knowledge_base/
